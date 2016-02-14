@@ -33,12 +33,19 @@
 	  <li>Mad Dogs,tot ce gasesti</li>
 	  <li>You, Me and the Apocalypse</li>
 	  <li>Ash vs Evil Dead</li>
+	  <li>Deadpool</li>
 	  </ul>
 	  <h2>JOCURI</h2>
 	  <ul>
 	  <li>Dirt 2 si 3</li>
 	  <li>Un fps</li>
 	  <li>Resident Evil2</li>
+	  <li>Borderlands</li>
+	  <li>Bioshock Infinite</li>
+	  <li>Plants VS Zombies Garden Warfare</li>
+	  <li>Middle-earth: Shadow of Mordor</li>
+	  <li>Tribes Ascend</li>
+	  <li>Global Agenda</li>
 	  </ul>
 	  <h3>Programe</h3>
 	  <ul>
